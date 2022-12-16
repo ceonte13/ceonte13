@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ceonte Brown</h1>
 <h3 align="center">inspiring Frontend Developer</h3>
-https://www.google.com/imgres?imgurl=http%3A%2F%2F38.media.tumblr.com%2F39f7227ae337acbb15ed10eac734acd6%2Ftumblr_nax2liUbfE1tcdcqco1_500.gif&imgrefurl=http
+src=https://www.google.com/imgres?imgurl=http%3A%2F%2F38.media.tumblr.com%2F39f7227ae337acbb15ed10eac734acd6%2Ftumblr_nax2liUbfE1tcdcqco1_500.gif&imgrefurl=http
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceonte13&label=Profile%20views&color=0e75b6&style=flat" alt="ceonte13" /> </p>
