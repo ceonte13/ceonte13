@@ -1,33 +1,34 @@
-### Hi there 👋
 
-<!--
-**ceonte13/ceonte13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm [Ceonte Latrail Brown] 👋
 
-Here are some ideas to get you started:
+🚀 Passionate Web Developer | TypeScript Enthusiast | React Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Ceonte Brown</h1>
-<h3 align="center">inspiring Frontend Developer</h3>
-src=https://www.google.com/imgres?imgurl=http%3A%2F%2F38.media.tumblr.com%2F39f7227ae337acbb15ed10eac734acd6%2Ftumblr_nax2liUbfE1tcdcqco1_500.gif&imgrefurl=http
+Welcome to my GitHub! I'm a front-end developer with a deep love for crafting seamless user experiences. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I've honed my skills to build dynamic, responsive web applications that are both beautiful and functional.
+🛠️ Skills & Technologies:
 
+    HTML5 & CSS3: Mastering the art of structuring and styling web content.
+    JavaScript: Bringing interactivity to life with clean, efficient code.
+    TypeScript: Adding type safety and improving code quality for scalable applications.
+    React: Building modern, component-based user interfaces with efficiency.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceonte13&label=Profile%20views&color=0e75b6&style=flat" alt="ceonte13" /> </p>
+🌟 What I’m Excited About:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceonte13" alt="ceonte13" /></a> </p>
+    Front-End Innovation: Exploring the latest in web design and development to create cutting-edge user experiences.
+    Open Source Contributions: Collaborating with the community to contribute to meaningful projects and learn from others.
+    Continuous Learning: Always eager to dive into new technologies and frameworks to keep my skills sharp and up-to-date.
 
-- 🌱 I’m currently learning **basic Javascript/ HTML/CSS etc.**
+📈 Recent Projects:
 
-- 📫 How to reach me **ceonte.brown@gmail.com**
+    [TAILWIND website ]: A [brief description of a recent project, highlighting your role and the technologies used].
+    [Bank of Jabez ]: [Another project with a brief description].
 
-- ⚡ Fun fact **I love video games!**
+🤝 Let’s Connect!
+
+Feel free to reach out if you’re interested in collaborating on a project, discussing the latest trends in web development, or just connecting over a coffee (virtual or real)! You can find me on [LinkedIn/Twitter] or drop me a message right here.
+
+Looking forward to collaborating and creating amazing things together!
+
+Happy coding! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
